@@ -381,7 +381,9 @@ try{
 
 # Pembuat
 
-**Nama :** Ryan
+**Nama :** Muhammad Ryan
+
+**Npm :** 2410010098
 
 **Program Studi :** Teknik Informatika
 
